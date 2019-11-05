@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(100, 100, 100);
+    background-color: rgb(93, 252, 204);
     }
     
     title {
@@ -14,11 +14,6 @@ body {
         font-size: 15px;
     }
     
-    #himalaya {
-        width: 100px;
-        height: 100px;
-
-    }
     
     footer {
         background-color: hsl(66, 26, 93);
